@@ -32,6 +32,6 @@ Git workflows, API interaction, and Markdown documentation
 
 ## Connect With Me
 
-- LinkedIn : [Your LinkedIn Profile URL]
+- LinkedIn : https://linkedin.com/in/ayush-singh-34931a452
 
 - Email : as3566214@gmail.com
